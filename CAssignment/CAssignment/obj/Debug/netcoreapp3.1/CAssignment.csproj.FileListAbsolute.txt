@@ -1,0 +1,14 @@
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\obj\Debug\netcoreapp3.1\CAssignment.csproj.AssemblyReference.cache
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\obj\Debug\netcoreapp3.1\CAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\obj\Debug\netcoreapp3.1\CAssignment.AssemblyInfoInputs.cache
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\obj\Debug\netcoreapp3.1\CAssignment.AssemblyInfo.cs
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\obj\Debug\netcoreapp3.1\CAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\bin\Debug\netcoreapp3.1\CAssignment.exe
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\bin\Debug\netcoreapp3.1\CAssignment.deps.json
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\bin\Debug\netcoreapp3.1\CAssignment.runtimeconfig.json
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\bin\Debug\netcoreapp3.1\CAssignment.runtimeconfig.dev.json
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\bin\Debug\netcoreapp3.1\CAssignment.dll
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\bin\Debug\netcoreapp3.1\CAssignment.pdb
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\obj\Debug\netcoreapp3.1\CAssignment.dll
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\obj\Debug\netcoreapp3.1\CAssignment.pdb
+C:\Users\tanvi\source\repos\CAssignment\CAssignment\obj\Debug\netcoreapp3.1\CAssignment.genruntimeconfig.cache
